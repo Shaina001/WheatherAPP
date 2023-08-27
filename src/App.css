@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+h2 {
+  padding-top: 4rem;
+}
